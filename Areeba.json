@@ -1,0 +1,35 @@
+{
+    "CurrentBooks": [
+        {
+            "Title": "Harry Potter: the Goblet of fire", 
+            "Author": "J.K Rowling",
+            "Book ID": "98705381",
+            "Genre": "Fantasy"
+        },
+        {
+            "Title": "IT", 
+            "Author": "Stephen King",
+            "Book ID": "87015932",                         
+            "Genre": "Horror"
+        },
+        {
+            "Title": "The very Hungry Caterpillar", 
+            "Author": "Eric Carle",                         
+            "Book ID": "74028682",                         
+            "Genre": "Children Friendly"
+        },
+        {
+            "Title": "To Kill A mocking bird", 
+            "Author": "Harper Lee",
+            "Book ID": "00629611",
+            "Genre": "Gothic Fiction"
+        },
+        {
+            "Title": "Murder On Orient Express", 
+            "Author": "Agatha Christie",                         
+            "Book ID": "00003927",                         
+            "Genre": "Mystery Fiction",                             
+        }
+    ]
+}
+                      
